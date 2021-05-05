@@ -84,7 +84,7 @@ html,body,.page{
     color:#fff;
     margin:5px 20px;
     padding:14px 10px;
-    background:rgba(255,255,255,.15);
+    background: #7800af;
     display:block;
     height:50px;
     width:50px;
@@ -114,7 +114,7 @@ html,body,.page{
     width:1px;
     height:10px;
     margin:0 10px;
-    background:rgba(255,255,255,.2);
+    background:#7800af;
     display:inline-block;
     position:relative;
     top:1px
