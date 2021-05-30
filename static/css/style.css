@@ -472,3 +472,16 @@ html,body,.page{
     transform:none;}
  }
 }
+
+a {
+    color: #7800af;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+
+a:hover {
+
+    color: #fff;
+    text-decoration: none;
+}
